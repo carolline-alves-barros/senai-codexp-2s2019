@@ -10,9 +10,9 @@ Metodologia Ágil
 Design Thinking
 Trello
 Protótipos
-	UI/UX
-	Wireframes
-	Cores, Tipografia
+UI/UX
+Wireframes
+Cores, Tipografia
 Marvel XD
 Testes de Usabilidade
 HTML
@@ -29,3 +29,107 @@ Persistência
 	CSV
 	BD
 
+
+Introdução a Informática
+1. Definição de Hardware
+2. Sistemas Operacionais
+
+Sistemas Operacionais
+1. Definição
+2. Comandos Básicos
+
+Metodologias Ágeis
+Design Thinking
+Trello
+
+Design
+Trello
+Protótipos
+UI/UX
+Wireframes
+Cores, Tipografia
+Adobe XD
+Testes de Usabilidade
+
+HTML
+1. Introdução
+2. Tags Html
+3. Estrutura de documento Html
+4. Elementos de cabeçalho
+5. Padrões de web semântica
+6. Recursos de acessibilidade
+7. Tipos de navegação
+8. Elementos de formulário
+
+CSS
+1. Introdução
+2. Inline/Interno/Arquivo Externo
+3. Niveis de prioridade
+4. Seletores
+5. Aplicações de estilos
+6. Pseudo-Classes
+7. Pseudo-Elementos
+8. Diagramação da página
+9. Transições/Animações
+10. Media Query\Responsividade
+
+JavaScript
+1. Variáveis/Constantes
+2. Tipos de dados Primitivos
+3. Estruturas de decisão
+4. Estruturas de Repetição
+5. Arrays: Vetor/Matriz
+6. Sub-rotinas/Metodos
+7. Formulários
+
+React
+1. Introdução Reactjs - FrameworksJs
+2. Criando primeiro projeto - Create-React-App
+3. Components
+4. Props
+5. Sistema de Módulos (Import/Export)
+6. State
+7. Formulários
+8. Json Static
+9. Integração Api
+
+Banco de Dados
+1. Introdução banco de dados
+2. Configurar o ambiente para utilização de banco de dados relacional - IDE
+3. Elaborar diagramas de modelagem do banco de dados\Excel
+4. Utilizar tipos de dados para definição dos atributos do banco de dados
+5. Utilizar relacionamentos entre as tabelas do banco de dados
+6. Utilizar linguagem de definição de dados (DDL)
+7. Utilizar linguagem de manipulação de dados (DML)
+8. Normalizar a estrutura do banco de dados
+9. Executar importação e exportação da base de dados
+10. Utilizar funções nativas do banco de dados
+11. Aplicar programação em banco de dados utilizando functions, stored procedures, triggers e eventos
+
+BackEnd Lógica + OO (C#)
+Princípios de lógica (resolvendo problemas de lógica); Fluxogramas;
+Entrada de dados; Tipos de dados; Explica como o processador e a memória se integra na criação de variáveis *Introdução a .NET Framework e .NET Core (Explicação de Barramento - Processador e Memória) Expressões aritméticas;
+*Estrutura de decisão *Expressões Booleanas; Lista de exercícios
+*Estrutura de decisão *Expressões Booleanas; Coding Dojo
+*Estrutura de repetição Desafios de Programação
+Orientação a Objetos: Classes, Objetos e Propriedades
+Orientação a Objetos: Propriedades e Métodos
+Vetores e Matrizes Com valores primitivos
+Vetores e Matrizes Com objetos
+Collection: List
+Metodo Construtor
+Heranca e Classes Abstratas
+Sobrecarga de Metodos
+Polimorfismo
+Interfaces - Ordenable
+
+BackEnd API (C#)
+Introdução à API
+Configurações projeto startup.cs (Cors, Versão Asp.net)
+Aplicações Web Requisições HTTP(POST, GET, PUT, DELETE)
+Status Code
+Design Pattern(Repositorios, Dominios, etc)
+Entity Framework(Database First/Code First)
+Jwt
+Swagger
+Publicação
