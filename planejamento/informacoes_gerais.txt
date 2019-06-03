@@ -24,5 +24,8 @@ API
 BackEnd
 	Lógica
 	OO
-WebMVC
 API
+Persistência
+	CSV
+	BD
+
