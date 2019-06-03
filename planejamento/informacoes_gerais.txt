@@ -1,0 +1,28 @@
+29/07
+20/12
+
+
+09~16hrs
+
+
+
+Metodologia Ágil
+Design Thinking
+Trello
+Protótipos
+	UI/UX
+	Wireframes
+	Cores, Tipografia
+Marvel XD
+Testes de Usabilidade
+HTML
+CSS
+JavaScript
+	Lógica
+React
+API
+BackEnd
+	Lógica
+	OO
+WebMVC
+API
